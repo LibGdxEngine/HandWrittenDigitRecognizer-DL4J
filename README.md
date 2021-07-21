@@ -1,2 +1,2 @@
-# Sample Template Project
-Use this as a minimal starting point for your own projects.
+# Sample deeplearning Project
+project for training on MNIST dataset
